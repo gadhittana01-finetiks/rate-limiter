@@ -120,6 +120,7 @@ func main() {
 		}
 
 		otp := generateOTP(6)
+		// TODO:
 		// isSent: bool
 		// ttl_left: if true 0 else ttl redis
 
